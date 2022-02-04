@@ -1,4 +1,4 @@
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+ Hello, I'm dylan a simple programmer and beginner hacker
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -10,7 +10,7 @@ object **SEU NOME** {
  val acknowledgements = "ÁREA DE CONHECIMENTO"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+ val languages = listOf("Python",  "Html", "Ruby", "Css") 
 
 }
 ```
